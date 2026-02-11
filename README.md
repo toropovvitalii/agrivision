@@ -60,7 +60,11 @@ AgriVision is not just another dashboard full of raw data — it translates comp
 
 ## 📸 Screenshots
 
-*(Dashboard preview)*
+Screenshot_1
+Screenshot_2
+Screenshot_3
+Screenshot_4
+Screenshot_5
 
 ---
 
